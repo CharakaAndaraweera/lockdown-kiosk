@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
-  <app appid="nlfjccigneoimkcacdbcfjiaahficcao">
+  <app appid="mchlagdklkjlgihhhnhkhgffghecdoog">
     <updatecheck codebase="https://github.com/CharakaAndaraweera/lockdown-kiosk/blob/e661d7dbf83c760c53dc9e8f6b55f5dc8aa1c1ad/Kiosk-web.crx" version="1.0" />
   </app>
 </gupdate>
